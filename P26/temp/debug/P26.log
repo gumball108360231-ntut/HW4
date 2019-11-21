@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+C:\Users\bryan\Desktop\108360231_蔣皓鈞\P26\source\main.c(7,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  P26.vcxproj -> C:\Users\bryan\Desktop\108360231_蔣皓鈞\P26\P26\P26\..\..\temp\debug\P26.exe
